@@ -1,6 +1,6 @@
 {
-    "versionCode": 5,
-    "versionName": "v5.3",
-    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v5.3/net.harimurti.tv_v5.3_b5.apk"
+    "versionCode": 1,
+    "versionName": "v1.0",
+    "changelog": ["App in Landscape Mode", "Icon Added", "Optimize Prebuffer", "Change Player Layout", "And More.."],
+    "downloadUrl": "https://github.com/btalexgaming/MAppUp/releases/download/mcn/MCN.v1.0.apk"
 }
