@@ -1,6 +1,6 @@
 {
-    "versionCode": 6,
-    "versionName": "v6.0",
+    "versionCode": 7,
+    "versionName": "v7.0",
     "changelog": ["Welcome Screen Fixed", "Optimize Prebuffer", "Less Apk Size", "Optimize App",  "Upgrade Version", "Some Bag Fixed", "And More..."],
     "downloadUrl": "https://github.com/btalexgaming/MAppUp/releases/download/v6.0/MCN_v6.0.apk"
 }
