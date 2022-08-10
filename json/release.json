@@ -1,6 +1,6 @@
 {
-    "versionCode": 7,
-    "versionName": "v7.0",
+    "versionCode": 8,
+    "versionName": "v8.0",
     "changelog": ["Splash Screen Less Time Delay", "Login Screen Fixed", "First Time Login", "Logout Feature", "Less Apk Size", "Optimize App",  "Upgrade Version", "Some Bag Fixed", "And More..."],
     "downloadUrl": "https://github.com/btalexgaming/MAppUp/releases/download/v8.0/MCN_v8.0.apk"
 }
