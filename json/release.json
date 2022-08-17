@@ -1,6 +1,6 @@
 {
     "versionCode": 10,
     "versionName": "v10.0",
-    "changelog": ["Notification Feature Added","First Time Login", "Logout Feature", "Less Apk Size", "Optimize App",  "Upgrade Version", "Some Bag Fixed", "And More..."],
+    "changelog": ["In App Update System Feature Added",  "Notification Feature Added", "First Time Login", "Logout Feature", "Less Apk Size", "Optimize App",  "Upgrade Version", "Some Bag Fixed", "And More..."],
     "downloadUrl": "https://github.com/btalexgaming/MAppUp/releases/download/v10.0/MCN v10.0_b10.apk"
 }
