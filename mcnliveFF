@@ -49,3 +49,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 group-title="World Cup Server 2" tvg-logo="", Tyc Sports
 http://mymoontools.xyz:8080//FNmdP2U7ey/FwQBAhSK3ddsrq/22077
+
+#EXTINF:-1 group-title="World Cup Server 2" tvg-logo="", Test
+https://59cd4e3b8d5b77e48fb2f2e9159b0155bf5f5e6e3e79f11.s3.eu-west-3.amazonaws.com/9c09e1940b2130be3759848bf8cdceb0/live_1080p30.m3u8
