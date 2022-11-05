@@ -1,0 +1,48 @@
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", BTV National
+http://103.135.133.3:8081/hls/stream2.m3u8
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", T Sports 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", GAZI TV HD 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Star Sports 1 HD
+http://103.135.133.3:8081/hls/stream3.m3u8
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Ten Sports HD
+http://103.157.249.125:201/play/a041/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="EPL" tvg-logo="", T Sports 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="", T Sports 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="", beIN Sports English
+
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="", beIN Sports 1
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/31536.ts
+
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="", beIN Sports Premium 1
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/31529.ts
+
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="", beIN Sports Premium 2
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/31528.ts
+
+
+
+
+#EXTINF:-1 group-title="World Cup Server 2" tvg-logo="", beIN Sports 2
+http://venomtt.com:8000/kdcxxD1U/543545/3369
