@@ -11,6 +11,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Star Sports 1 HD
 http://103.135.133.3:8081/hls/stream3.m3u8
 
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Sky Sports Cricket 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Ten Sports HD
 http://103.157.249.125:201/play/a041/index.m3u8
 
