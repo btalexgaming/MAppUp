@@ -2,12 +2,10 @@
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", BTV National
 http://103.135.133.3:8081/hls/stream2.m3u8
 
-#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/T-Sports-HD
-", T Sports 
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/T-Sports-HD", T Sports 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
-#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv	
-", GAZI TV HD 
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv", GAZI TV HD 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Star Sports 1 HD
@@ -29,23 +27,19 @@ http://103.157.249.125:201/play/a041/index.m3u8
 
 
 
-#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/T-Sports-HD
-", T Sports 
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/T-Sports-HD", T Sports 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 #EXTINF:-1 group-title="World Cup 2022" tvg-logo="", beIN Sports English
 
 
-#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/bein-sports-1
-", beIN Sports 1
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/bein-sports-1", beIN Sports 1
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/31536.ts
 
-#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/bein-sports-premium-1
-", beIN Sports Premium 1
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/bein-sports-premium-1", beIN Sports Premium 1
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/31529.ts
 
-#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/beIN-SPORTS-2-Premium
-", beIN Sports Premium 2
+#EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/beIN-SPORTS-2-Premium", beIN Sports Premium 2
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/31528.ts
 
 
@@ -56,6 +50,5 @@ http://red.ipfox.org:8080/live/Karam2022/Karam2023/31528.ts
 #EXTINF:-1 group-title="World Cup Server 2" tvg-logo="", beIN Sports 2
 http://venomtt.com:8000/kdcxxD1U/543545/3369
 
-#EXTINF:-1 group-title="World Cup Server 2" tvg-logo="https://tinyurl.com/beIN-SPORTS-EXTRA-N
-", beIN SPORTS EXTRA Ñ
+#EXTINF:-1 group-title="World Cup Server 2" tvg-logo="https://tinyurl.com/beIN-SPORTS-EXTRA-N", beIN SPORTS EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
