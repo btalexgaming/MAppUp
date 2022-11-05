@@ -8,7 +8,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv", GAZI TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
-
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/star-sports-hd-1", Star Sports 1 HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", A Sports HD
 http://103.151.43.102:8801/play/a04z/index.m3u8
