@@ -17,7 +17,7 @@ http://103.151.43.102:8801/play/a04z/index.m3u8
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="", Sky Sports Cricket 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 
-#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", SS Cricket
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="", S Cricket 
 http://111.90.158.152:8080/dazn/index.m3u8
 
 
