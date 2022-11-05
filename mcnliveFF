@@ -18,14 +18,6 @@ http://103.157.249.125:201/play/a041/index.m3u8
 
 
 
-#EXTINF:-1 group-title="EPL" tvg-logo="", T Sports 
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="World Cup 2022" tvg-logo="https://tinyurl.com/T-Sports-HD", T Sports 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
