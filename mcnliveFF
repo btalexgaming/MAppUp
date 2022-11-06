@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/super-sports-cricket", S Cricket Live
-http://111.90.158.152:8080/dazn/index.m3u8
+http://iptvtree.net:8080/live/F17744/f01e18e2/11637.m3u8
 
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/T-Sports-HD", T Sports
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
