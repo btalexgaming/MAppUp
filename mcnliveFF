@@ -7,7 +7,10 @@ http://103.157.249.125:201/play/a041/index.m3u8
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/T-Sports-HD", T Sports
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
-#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv", GAZI TV HD
+EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv", GAZI TV HD 
+http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/gazi-tvv", GAZI TV HD S2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 #EXTINF:-1 group-title="T20 World CUP" tvg-logo="https://tinyurl.com/star-sports-hd-1", Star Sports 1 HD
